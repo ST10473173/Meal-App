@@ -75,18 +75,22 @@ Screenshots
 What the user will see when the start up the app:
 
 
+![Screenshot 2025-04-01 094425](https://github.com/user-attachments/assets/242d4b1d-7f40-455a-8526-618c8af02c4e)
+
 
 The user will input “time of day” eg.(morning):
 
-
-
+![Screenshot 2025-04-01 094503](https://github.com/user-attachments/assets/acbb242f-a35b-4d9a-ab88-e6afe10bd224)
 
 
 When the user does not enter “time of day” the app will prompt the user to input “time of day”:
 
+![Screenshot 2025-04-01 094610](https://github.com/user-attachments/assets/c3cba239-f976-4e6a-91c0-39279f074438)
 
 
 When the user spells the word wrong it will promt them and say “Invalid time of day”:
+
+![Screenshot 2025-04-01 094632](https://github.com/user-attachments/assets/f9372289-7763-400e-9a53-17a6daf04d55)
 
 
 Challenges and Learnings 
@@ -149,18 +153,18 @@ In the development of this project, I have used generative Ai tools to assist in
 -Chat 1: How to change button colour.
 
 
-
-
+![Screenshot 2025-04-01 111705](https://github.com/user-attachments/assets/ce9b9e73-3bab-43ac-9eca-46e5621a00f3)
 
 
 -Chat 2:How to push code to GitHub.
 
 
-
+![Screenshot 2025-04-01 111857](https://github.com/user-attachments/assets/75c5ec89-8394-46bd-bffd-9c404043bf57)
 
 
 -Chat 3: How to enable dark mode.
 
+![Screenshot 2025-04-01 132103](https://github.com/user-attachments/assets/6232fa84-e63f-4565-9fda-372c8c846a21)
 
 
 
